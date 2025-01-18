@@ -1,0 +1,8 @@
+/* var is global scope, 
+var can be updated and re-declared within its scope.
+
+/* let is block scoped
+/* let can be updated but not re-declared */
+
+/* cont can not be updated and redeclared */
+var b =30;
